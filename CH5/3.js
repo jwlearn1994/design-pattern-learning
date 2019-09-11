@@ -1,14 +1,11 @@
 'use strict';
 
-// 惰性载入单例
 var LazySingle = (function() {
 
-  // 单例实例引用
   var _instance = null;
 
-  // 单例
+  // 單例
   function Single() {
-    // 这里定义私有属性和方法
     return {
       publicMethod: function() {},
       publicProperty: '1.0'
@@ -21,7 +18,7 @@ var LazySingle = (function() {
       _instance = Single();
     }
 
-    // 返回单例
+    // 返回單例
     return _instance;
   }
 })();
@@ -30,4 +27,4 @@ var LazySingle = (function() {
 console.log( LazySingle().publicProperty ); // 1.0
 console.log( LazySingle() === LazySingle() ); // true
 
-9
+// 此方法可以延遲單例的構建時機，用於一些需要延遲創立的場合，且單例本身只會出現一個

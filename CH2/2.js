@@ -5,7 +5,7 @@ var Book = function(title, time, type) {
 
   this.title = title;
   this.time = time;
-  this.type = type; 
+  this.type = type;
 };
 
 var book = Book('Javascript', '2019', 'js');

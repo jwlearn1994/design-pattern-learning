@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * 寄生式继承 继承原型
+ * 寄生式繼承 繼承原型
  *
  * @param {class} subClass 子類
  * @param {class} superClass 父類
