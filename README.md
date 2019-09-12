@@ -30,3 +30,25 @@
 * [第十二章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH12) 享元模式
 
 
+### 第四篇
+
+行為型設計模式
+
+* [第十三章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH13) 模板模式
+* [第十四章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH14) 觀察者模式
+* [第十五章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH15) 狀態模式
+* [第十六章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH16) 策略模式
+* [第十七章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH17) 責任鏈模式
+* [第十八章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH18) 命令模式（js 內建就是命令模式了）
+* [第十九章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH19) 訪問者模式
+* [第二十章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH20) 中介者模式
+
+
+## 第五篇
+
+技巧型設計模式
+
+* [第二十一章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH21) 鏈模式
+* [第二十二章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH22) 委託模式
+* [第二十三章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH23) 惰性模式
+* [第二十四章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH24) 參與者模式
