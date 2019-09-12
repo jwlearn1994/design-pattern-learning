@@ -52,3 +52,4 @@
 * [第二十二章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH22) 委託模式
 * [第二十三章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH23) 惰性模式
 * [第二十四章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH24) 參與者模式
+* [第二十五章](https://github.com/johnnywang1994/design-pattern-learning/tree/master/CH25) 等待者模式
